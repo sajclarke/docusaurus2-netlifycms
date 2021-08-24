@@ -1,4 +1,4 @@
-# Website
+# Use Docusaurus v2 with NetlifyCMS
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
